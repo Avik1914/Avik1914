@@ -24,3 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avik1914&show_icons=true&locale=en" alt="avik1914" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avik1914&" alt="avik1914" /></p>
